@@ -4,3 +4,7 @@ rencana belajar github
 - saya akan semangat belajar 
 - saya akan belajar tiap hari
 - membuat kurikulum
+
+apa yang dipelajari ?
+- repository
+- commit
