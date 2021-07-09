@@ -2,4 +2,5 @@ jadwal belajar
 - pagi jam 05.00-07.00
 - siang jam 09.00-11.00
   belajar setelah olahraga
-- malam 18.00 - 19.00
+- malam jam 19.00 - 20.00
+  belajar setelah isya
